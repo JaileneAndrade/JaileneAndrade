@@ -1,35 +1,28 @@
-<h1 align="center">Hi! My name is Jailene Andrade</h1>
+<h1 align="center">Hi! My name is Jailene 👋</h1>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
+###🚀 Aspirante a Desarrolladora Full Stack Python
+Actualmente estoy en un viaje de aprendizaje intensivo, transformando mi curiosidad en código. Mi enfoque principal es el ecosistema de **Python** y el desarrollo de aplicaciones web robustas con **Django**.
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </div>
 
-###
-<h3 align="left">🛠 Language and tools</h3>
+### 📚 Mi Stack en Construcción
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dbeaver" height="60" alt="dbeaver logo"  />
-  <img width="12" />
-</div>
+**Lenguajes y Lógica:**
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) &nbsp; [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+**Desarrollo Web (Frontend & Backend):**
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+**Bases de Datos y Entorno:**
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) &nbsp; [![DBeaver](https://skillicons.dev/icons?i=dbeaver)](https://skillicons.dev) &nbsp; [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+### 🛠️ ¿En qué estoy trabajando hoy?
+
+* 🌱 **Aprendiendo:** Perfeccionando el manejo del ORM de Django y las relaciones en PostgreSQL.
+* 🎯 **Meta actual:** Construir código más limpio y escalable cada día.
+* 🗣️ **Idiomas:** Estudiando inglés para colaborar en equipos multiculturales.
 
 <h3 align="left">🔥   My Stats :</h3>
 
