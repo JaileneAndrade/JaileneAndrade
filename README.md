@@ -16,7 +16,7 @@ Actualmente estoy en un viaje de aprendizaje intensivo, transformando mi curiosi
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 **Bases de Datos y Entorno:**
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) &nbsp; [![DBeaver](https://skillicons.dev/icons?i=dbeaver)](https://skillicons.dev) &nbsp; [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) &nbsp; ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white) &nbsp; [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### 🛠️ ¿En qué estoy trabajando hoy?
 
