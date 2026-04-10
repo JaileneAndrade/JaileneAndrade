@@ -21,6 +21,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="Mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dbeaver" height="60" alt="dbeaver logo"  />
+  <img width="12" />
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
