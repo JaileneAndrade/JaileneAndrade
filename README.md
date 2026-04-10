@@ -15,6 +15,6 @@
 
 ###
 
-![Pacman](https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/main/github-metrics.svg)
+![Pacman Animation](https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/output/github-contribution-grid-blinky.svg)
 
 ###
