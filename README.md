@@ -15,6 +15,6 @@
 
 ###
 
-![Pacman Animation](https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/main/github-metrics-plugin-isocalendar.svg)
+![Pacman](https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/main/github-metrics.svg)
 
 ###
