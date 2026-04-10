@@ -4,7 +4,7 @@
 Actualmente estoy en un viaje de aprendizaje intensivo, transformando mi curiosidad en código. Mi enfoque principal es el ecosistema de **Python** y el desarrollo de aplicaciones web robustas con **Django**.
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jaileneandrade)
 </div>
 
 ### 📚 Mi Stack en Construcción
@@ -29,11 +29,11 @@ Actualmente estoy en un viaje de aprendizaje intensivo, transformando mi curiosi
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JaileneAndrade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JaileneAndrade/JaileneAndrade/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
