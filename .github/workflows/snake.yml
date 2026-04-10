@@ -1,10 +1,10 @@
 name: generate pacman game
 
 on:
-  schedule:
+  schedule: # run automatically every 24 hours
     - cron: "0 */24 * * *"
-  workflow_dispatch:
-  push:
+  workflow_dispatch: # allows to manually run the job at any time
+  push: # run on every push on the master branch
     branches:
       - main
 
@@ -16,13 +16,24 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg (Light Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Aquí se genera la imagen en la carpeta dist
+          # Genera la versión para tema claro
           svg_out_path: dist/pacman-contribution-graph.svg
 
+      - name: generate pacman-contribution-graph-dark.svg (Dark Mode)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Genera la versión para tema oscuro (pacman-contribution-graph-dark.svg)
+          svg_out_path: dist/pacman-contribution-graph-dark.svg
+          # Aquí forzamos la paleta de colores oscuros
+          theme: dark
+
+      # push the content of to a branch
+      # the content will be available at https://raw.githubusercontent.com//// , or as github page
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
