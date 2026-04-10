@@ -4,7 +4,7 @@
 Actualmente estoy en un viaje de aprendizaje intensivo, transformando mi curiosidad en código. Mi enfoque principal es el ecosistema de **Python** y el desarrollo de aplicaciones web robustas con **Django**.
 
 <div align="center">
-<a href="www.linkedin.com/in/jaileneandrade/" target="_blank">
+<a href="https://www.linkedin.com/in/jaileneandrade" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
