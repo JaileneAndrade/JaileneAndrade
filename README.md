@@ -19,8 +19,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="Django logo"  />
+  <img width="12" />
 </div>
-###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
