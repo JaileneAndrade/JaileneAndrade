@@ -15,16 +15,16 @@
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
-###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
 </div>
 ###
 <h3 align="left">🔥   My Stats :</h3>
-###
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mJaileneAndrade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=JaileneAndrade&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 ###
 <picture>
